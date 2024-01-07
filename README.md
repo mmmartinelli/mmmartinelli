@@ -4,7 +4,7 @@
 
 Welcome to my github profile!
 
-I've been a back-end developer since 2010 and I still can't figure out how I survived working with this until these days! 🤔 
+I've been a back-end developer since 2010 and I can't figure out how I still working with this until these days! 🤔 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmartinelli&hide_progress=true&theme=merko) 
 <!-- ![Snake animation](https://github.com/mmmartinelli/mmmartinelli/blob/output/github-contribution-grid-snake.svg) -->
