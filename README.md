@@ -4,9 +4,9 @@
 
 Welcome to my github profile!
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmartinelli&theme=merko) 
 
-<!--
 I've been a back-end developer since 2010 and I can't figure out how I still working with this until these days! 🤔 
 
 ![Snake animation](https://github.com/mmmartinelli/mmmartinelli/blob/output/github-contribution-grid-snake.svg)
